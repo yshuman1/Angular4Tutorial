@@ -1,5 +1,5 @@
 {
-  "name": "ng4-playground",
+  "name": "components101",
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
@@ -12,7 +12,7 @@
   },
   "private": true,
   "dependencies": {
-    "@angular/animations": "^4.0.0",
+    "@angular/animations": "^4.3.0",
     "@angular/common": "^4.0.0",
     "@angular/compiler": "^4.0.0",
     "@angular/core": "^4.0.0",
@@ -44,6 +44,6 @@
     "protractor": "~5.1.2",
     "ts-node": "~3.0.4",
     "tslint": "~5.3.2",
-    "typescript": "^2.2.1"
+    "typescript": "~2.3.3"
   }
 }
